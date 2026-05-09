@@ -1,0 +1,13 @@
+[Script Info]
+Title: Warning Subtitle
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TopRed,Microsoft YaHei,16,&H0000FF,&H0000FF,&H000000,&H64000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:05.00,TopRed,,0,0,0,,本站所有内容均来自互联网分享站点所提供的公开引用资源，未提供资源上传、存储服务。
